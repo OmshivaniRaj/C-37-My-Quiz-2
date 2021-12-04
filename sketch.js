@@ -19,7 +19,7 @@ function setup(){
 
 
 function draw(){
-  background("pink");
+  background("aqua");
   if(contestantCount === 2){
     quiz.update(1);
   }
